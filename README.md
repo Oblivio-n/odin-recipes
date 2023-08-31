@@ -8,4 +8,4 @@ a proper html based website on the topic of 'recipes'
 I will try my best to make it as good as possible
 I will be able to demonstrate my basic understanding of html, the boilerplate, the elements and the attributes
 
-Link to my website: https://Oblivio-n.github.io/odin-recipes.com
+Link to my website: https://Oblivio-n.github.io/odin-recipes/
